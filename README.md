@@ -18,10 +18,11 @@ verify
 show grants for 'dict_user'@'localhost';
 ```
 
-### 推荐使用virutalenv环境
+### 环境推荐使用virtualenvwrapper
 ```
 pip install virtualenv
-virtualenv dict
+pip install virtualenvwrapper
+mkvirtualenv dict
 workon dict
 ```
 ### 安装
