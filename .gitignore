@@ -1,0 +1,12 @@
+*.pyc
+*.log
+.DS_Store
+.idea
+logs/
+qiefenvenv/  
+celerybeat-schedule
+celerybeat.pid
+frontend/node_modules/ 
+frontend/build/js/
+*.sublime-project
+*.sublime-workspace
